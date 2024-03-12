@@ -17,3 +17,7 @@ https://mod.4513echo.dev/skk_jisyo/SKK-JISYO.4513echo
 -  [SKK-JISYO.bluearchive](./SKK-JISYO.bluearchive)
 
 ブルーアーカイブのキャラクター・組織に関連する単語を収録しています。
+
+- [SKK-JISYO.shinobigami](./SKK-JISYO.shinobigami)
+
+[シノビガミ](https://bouken.jp/pd/sg/)に関連する単語を収録しています。
