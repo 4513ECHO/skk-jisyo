@@ -18,6 +18,10 @@ SKK用の辞書ファイル色々
 
 [シノビガミ][shinobigami]に関連する単語（流派・特技・忍法など）を収録しています。
 
+- [SKK-JISYO.school](./SKK-JISYO.school)
+
+弊校でしか通じない略語などを収録しています。
+
 ## インストール
 
 URLを指定して使う場合は`raw.githubusercontent.com`の短縮版として下のようなURLも使えます。
